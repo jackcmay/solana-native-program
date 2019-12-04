@@ -1,0 +1,23 @@
+/book/html/
+/book/src/tests.ok
+/farf/
+/solana-release/
+/solana-release.tar.bz2
+/solana-metrics/
+/solana-metrics.tar.bz2
+/target/
+
+**/*.rs.bk
+.cargo
+
+/config/
+
+# log files
+*.log
+log-*.txt
+log-*/
+
+# intellij files
+/.idea/
+/solana.iml
+/.vscode/
